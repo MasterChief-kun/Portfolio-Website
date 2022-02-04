@@ -5,7 +5,11 @@
             "about":"",
             "pfp":"",
             "socials":[
-
+                {"reddit":""},
+                {"github":""},
+                {"youtube":""},
+                {"gitlab":""},
+                {"":""},
             ],
             "projects":[
                 {
