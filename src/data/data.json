@@ -1,59 +1,27 @@
 {
-    "members":[
-        {
-            "name":"MasterChief-Kun",
-            "about":"",
-            "pfp":"",
-            "socials":[
-                {"reddit":""},
-                {"github":""},
-                {"youtube":""},
-                {"gitlab":""},
-                {"":""},
-            ],
-            "projects":[
-                {
-                    "name":"",
-                    "repoLink":""
-                },
-                {
-
-                }
-            ]
-        },
-        {
-            "name":"slickvic33",
-            "about":"",
-            "pfp":"",
-            "socials":[
-
-            ],
-            "projects":[
-                {
-                    "name":"",
-                    "repoLink":""
-                },
-                {
-
-                }
-            ]
-        },
-        {
-            "name":"Mentayolo",
-            "about":"",
-            "pfp":"",
-            "socials":[
-
-            ],
-            "projects":[
-                {
-                    "name":"",
-                    "repoLink":""
-                },
-                {
-
-                }
-            ]
-        }
+  "team name": {
+    "members": [
+      {
+        "name": "member name",
+        "bio": "biography of member",
+        "avatar": "link to avatar, or embedded?",
+        "socials": [
+          {
+            "name": "reddit",
+            "link": "link to reddit social media"
+          },
+          {
+            "name": "github",
+            "link": "link to github social media"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "project name",
+        "link": "project link"
+      }
     ]
+  }
 }
