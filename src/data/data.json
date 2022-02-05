@@ -2,7 +2,37 @@
   "team name": {
     "members": [
       {
-        "name": "member name",
+        "name": "MasterChief-Kun",
+        "bio": "biography of member",
+        "avatar": "link to avatar, or embedded?",
+        "socials": [
+          {
+            "name": "reddit",
+            "link": "link to reddit social media"
+          },
+          {
+            "name": "github",
+            "link": "link to github social media"
+          }
+        ]
+      },
+      {
+        "name": "slickvic33",
+        "bio": "NYC web developer interested in new technologies and collaboration.",
+        "avatar": "https://avatars.githubusercontent.com/u/94798862?v=4",
+        "socials": [
+          {
+            "name": "reddit",
+            "link": "link to reddit social media"
+          },
+          {
+            "name": "github",
+            "link": "https://github.com/victorhe33"
+          }
+        ]
+      },
+      {
+        "name": "Mentayolo",
         "bio": "biography of member",
         "avatar": "link to avatar, or embedded?",
         "socials": [
@@ -19,8 +49,14 @@
     ],
     "projects": [
       {
-        "name": "project name",
-        "link": "project link"
+        "name": "Team Calculator",
+        "link": "https://github.com/victorhe33/teamcalculator", 
+        "live": "https://victorhe33.github.io/teamcalculator/index.html"
+      },
+      {
+        "name": "Portfolio Website",
+        "link": "https://github.com/MasterChief-kun/portfolio-website",
+        "live": "link to live website"
       }
     ]
   }
